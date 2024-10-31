@@ -25,8 +25,7 @@
     "genomeAnnotation": "genome_annotation.gff3",
     "pathogenJson": "pathogen.json",
     "readme": "README.md",
-    "reference": "reference.fasta",
-    "treeJson": "tree.json"
+    "reference": "reference.fasta"
   },
   "meta": {
     "bugs": "https://github.com/nextstrain/nextclade_data/issues",
